@@ -1,6 +1,6 @@
 I'm Lahiru
 # About Me:
-🌱 I’m currently learning Computer Networks (UGC) at NSBM Green University.<br>👯 I’m looking to collaborate on open source projects.<br>🤔 I’m looking for help with open source projects.<br>📫 How to reach me: nimeshlahiru86@gmail.com
+🌱 I’m currently learning Computer Networks (UGC) at NSBM Green University.<br>👯 I’m looking to collaborate on open source projects.<br>🤔 I’m looking for help with open source projects.<br>📫 How to reach me: lahirunediriweera@gmail.com.<br>📫 How to reach me: nimeshlahiru86@gmail.com.
 
 
 ## Socials:
