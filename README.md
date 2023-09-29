@@ -16,7 +16,7 @@ I'm Lahiru
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lahirunediriweera&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### Random Dev Quote
+[![An image of @lahirunediriweera's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lahirunediriweera)](https://holopin.io/@lahirunediriweera)### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### Top Contributed Repo
