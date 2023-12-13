@@ -8,6 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=f6e58d&center=true&vCenter=true&width=1200&height=45&lines=Undergraduate+in+BSc+(Hons)+Computer+Networks;NSBM+Green+University+(NSBM)">
 </p >
 <img align="right" alt="Code" width="550" src="https://www.digisailor.com/assets/img/services-details/5.gif">
+
 # About Me:
 🌱 I’m currently learning Computer Networks (UGC) at NSBM Green University.<br>👯 I’m looking to collaborate on open source projects.<br>🤔 I’m looking for help with open source projects.<br>📫 How to reach me: lahirunediriweera@gmail.com.<br>📫 How to reach me: nimeshlahiru86@gmail.com.
 
