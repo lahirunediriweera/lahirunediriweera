@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=4834d4&size=42&center=true&vCenter=true&width=1000&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+LAHIRU+N+EDIRIWEERA">
 </p>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4834d4&width=1000&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=f6e58d&center=true&vCenter=true&width=1200&height=45&lines=Undergraduate+in+BSc+(Hons)+Computer+Networks;NSBM+Green+University+(NSBM)">
 </p >
